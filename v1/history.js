@@ -1,12 +1,17 @@
 const historyDiv = document.querySelector('#history');
+const DEBUG = false;
 
+const log = (thing) => {
+  if (DEBUG) {
+    console.log(thing);
+  }
+}
 
 const addHistoryItems = (items) => {
   items.forEach(item => {
     addHistoryItem(item);
   });
 }
-
 
 const addHistoryItem = (domain, item) => {
   const html = createHistoryListItem(domain, item);
@@ -30,10 +35,11 @@ const getDomain = (url) => {
 }
 
 (() => {
-  const msSinceMidnight = new Date() - new Date().setHours(0, 0, 0, 0);
+  const midnight = new Date();
+  midnight.setHours(0, 0, 0, 0);
   chrome.history.search({
     'text': '',              // Return every history item....
-    'startTime': msSinceMidnight  // that was accessed less than one week ago.
+    'startTime': midnight.getTime()  // that was accessed less than one week ago.
   }, (historyItems) => {
 
     // aggregate items based on url
@@ -72,7 +78,7 @@ const getDomain = (url) => {
       .filter((f, i) => i < 10)
       .filter(f => f.count > 1)
       .forEach(domain => {
-        console.log(domain)
+        log(domain);
         addHistoryItem(domain);
       });
 
