@@ -52,21 +52,18 @@ const ShowHistory = () => {
         .filter((f, i) => i < 10)
         .filter(f => f.count > 1);  
         setHistory(items);      
-  
     });
   
   }, []);
 
 
   return (
-    <div>
-      <ol>
+      <ol id="history">
         {history.map((item, index) => {
           const { domain, count } = item;
           return <li key={index}><span>{domain}</span><span>{count}</span></li>
         })}
       </ol>
-    </div>
   );
 }
 

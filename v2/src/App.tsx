@@ -1,11 +1,15 @@
 
 import './App.css';
+import Clock from './Clock';
 import ShowHistory from './ShowHistory';
+import Title from './Title';
 
 function App() {
   return (
     <div className="App">
-     <ShowHistory/>
+      <Title/>
+      <Clock/>
+      <ShowHistory/>
     </div>
   );
 }
