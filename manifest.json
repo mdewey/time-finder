@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Tech Stories Tab by Hacker Noon",
-  "version": "1.0",
-  "description": "The latest Hacker Noon tech stories.",
-  "author": "Hacker Noon",
+  "name": "Time finder to show where You have been today",
+  "version": "0.1",
+  "description": "Show what websites you have been on today",
+  "author": "Mark Dewey",
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
