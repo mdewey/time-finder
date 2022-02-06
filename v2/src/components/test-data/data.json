@@ -1,0 +1,322 @@
+[
+  {
+    "domain": "test-123.com",
+    "items": [
+      {
+        "id": "105311",
+        "lastVisitTime": 1644171159264.029,
+        "title": "Privacy practices",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748/mckjcamlpbeamlmbmbbplomejcaeodcm/edit/privacy",
+        "visitCount": 2
+      },
+      {
+        "id": "105326",
+        "lastVisitTime": 1644171154882.843,
+        "title": "Pricing and Distribution",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748/mckjcamlpbeamlmbmbbplomejcaeodcm/edit/distribution",
+        "visitCount": 1
+      },
+      {
+        "id": "105323",
+        "lastVisitTime": 1644171144962.1292,
+        "title": "Status",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748/mckjcamlpbeamlmbmbbplomejcaeodcm/edit/status",
+        "visitCount": 2
+      },
+      {
+        "id": "105324",
+        "lastVisitTime": 1644169360321.004,
+        "title": "Package Information",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748/mckjcamlpbeamlmbmbbplomejcaeodcm/edit/package",
+        "visitCount": 1
+      },
+      {
+        "id": "105322",
+        "lastVisitTime": 1644169353219.761,
+        "title": "Store Listing",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748/mckjcamlpbeamlmbmbbplomejcaeodcm/edit/listing",
+        "visitCount": 1
+      },
+      {
+        "id": "105304",
+        "lastVisitTime": 1644169345678.1052,
+        "title": "Store Listing",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748/mckjcamlpbeamlmbmbbplomejcaeodcm/edit",
+        "visitCount": 6
+      },
+      {
+        "id": "105293",
+        "lastVisitTime": 1644169322619.152,
+        "title": "Developer Dashboard",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748",
+        "visitCount": 3
+      },
+      {
+        "id": "105321",
+        "lastVisitTime": 1644169317707.597,
+        "title": "Account",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748/settings?evr=SUCCESS",
+        "visitCount": 2
+      },
+      {
+        "id": "105294",
+        "lastVisitTime": 1644169208360.928,
+        "title": "Account",
+        "typedCount": 0,
+        "url": "https://test-123.com/webstore/devconsole/7327203e-c35b-44fd-b1a6-2da0574a0748/settings",
+        "visitCount": 3
+      }
+    ],
+    "count": 9
+  },
+  {
+    "domain": "www.not-reddit.com",
+    "items": [
+      {
+        "id": "105346",
+        "lastVisitTime": 1644180899425.209,
+        "title": "",
+        "typedCount": 0,
+        "url": "https://www.not-reddit.com/r/dndmemes/comments/sm01io/its_not_that_i_railroad_my_campaigns_my_players/",
+        "visitCount": 1
+      },
+      {
+        "id": "105344",
+        "lastVisitTime": 1644180862396.943,
+        "title": "",
+        "typedCount": 0,
+        "url": "https://www.not-reddit.com/r/TheLastAirbender/comments/sm1ymw/is_aang_vegan_or_vegetarian_i_was_rewatching_the/",
+        "visitCount": 1
+      },
+      {
+        "id": "38",
+        "lastVisitTime": 1644180841201.55,
+        "title": "not-reddit: the front page of the internet",
+        "typedCount": 0,
+        "url": "https://www.not-reddit.com/",
+        "visitCount": 390
+      },
+      {
+        "id": "105343",
+        "lastVisitTime": 1644180816647.878,
+        "title": "raiders: opening sentence, beyond the dreams of \"?\" : TheGlassCannonPodcast",
+        "typedCount": 0,
+        "url": "https://www.not-reddit.com/r/TheGlassCannonPodcast/comments/sm6t0p/raiders_opening_sentence_beyond_the_dreams_of/",
+        "visitCount": 1
+      },
+      {
+        "id": "105341",
+        "lastVisitTime": 1644171262557.205,
+        "title": "I'm just gonna say it. PLA is the best freakin' Pokemon game of all time. : pokemon",
+        "typedCount": 0,
+        "url": "https://www.not-reddit.com/r/pokemon/comments/slsn4u/im_just_gonna_say_it_pla_is_the_best_freakin/",
+        "visitCount": 1
+      },
+      {
+        "id": "105340",
+        "lastVisitTime": 1644171218841.6519,
+        "title": "",
+        "typedCount": 0,
+        "url": "https://www.not-reddit.com/gallery/slyfzx",
+        "visitCount": 1
+      }
+    ],
+    "count": 6
+  },
+  {
+    "domain": "foo-123.com",
+    "items": [
+      {
+        "id": "105357",
+        "lastVisitTime": 1644182012606.837,
+        "title": "Lavatory Lil (Josh Homme) · Paul McCartney, Josh Homme",
+        "typedCount": 0,
+        "url": "https://foo-123.com/playlist/37i9dQZF1DX5a39zUmS7Hn",
+        "visitCount": 2
+      },
+      {
+        "id": "105358",
+        "lastVisitTime": 1644181374272.371,
+        "title": "Spotify – Legends Only",
+        "typedCount": 0,
+        "url": "https://foo-123.com/station/playlist/37i9dQZF1DX5a39zUmS7Hn",
+        "visitCount": 1
+      },
+      {
+        "id": "73563",
+        "lastVisitTime": 1644181353357.413,
+        "title": "Spotify – Web Player",
+        "typedCount": 76,
+        "url": "https://foo-123.com/",
+        "visitCount": 93
+      },
+      {
+        "id": "105350",
+        "lastVisitTime": 1644181252329.274,
+        "title": "Skeleton Lake - Unexplainable | Podcast on Spotify",
+        "typedCount": 0,
+        "url": "https://foo-123.com/episode/1JsZgFHxhBqLgOYb7L7Oe2",
+        "visitCount": 1
+      },
+      {
+        "id": "105349",
+        "lastVisitTime": 1644181234698.664,
+        "title": "Unexplainable | Podcast on Spotify",
+        "typedCount": 0,
+        "url": "https://foo-123.com/show/0PhoePNItwrXBnmAEZgYmt",
+        "visitCount": 1
+      }
+    ],
+    "count": 5
+  },
+  {
+    "domain": "bar.googgle.com",
+    "items": [
+      {
+        "id": "105317",
+        "lastVisitTime": 1644169261257.906,
+        "title": "Google Domains - Email",
+        "typedCount": 0,
+        "url": "https://bar.googgle.com/registrar/markdewey.dev/email",
+        "visitCount": 1
+      },
+      {
+        "id": "105316",
+        "lastVisitTime": 1644169257870.2979,
+        "title": "Google Domains - Domain overview",
+        "typedCount": 0,
+        "url": "https://bar.googgle.com/registrar/markdewey.dev",
+        "visitCount": 2
+      },
+      {
+        "id": "105315",
+        "lastVisitTime": 1644169250842.234,
+        "title": "Google Domains - My domains",
+        "typedCount": 0,
+        "url": "https://bar.googgle.com/registrar/",
+        "visitCount": 2
+      },
+      {
+        "id": "105314",
+        "lastVisitTime": 1644169241319.1929,
+        "title": "Google Domains",
+        "typedCount": 0,
+        "url": "https://bar.googgle.com/registrar",
+        "visitCount": 1
+      }
+    ],
+    "count": 4
+  },
+  {
+    "domain": "monkey.man.net",
+    "items": [
+      {
+        "id": "105332",
+        "lastVisitTime": 1644171170690.25,
+        "title": "Google AdSense",
+        "typedCount": 0,
+        "url": "https://monkey.man.net/AccountChooser/signinchooser?service=adsense&continue=https%3A%2F%2Fwww.google.com%2Fadsense%2Fsignup%2Fcreate%3Fsac%3Dtrue&hl=en-US&faa=1&flowName=GlifWebSignIn&flowEntry=AccountChooser",
+        "visitCount": 1
+      },
+      {
+        "id": "105331",
+        "lastVisitTime": 1644171170489.356,
+        "title": "Google AdSense",
+        "typedCount": 0,
+        "url": "https://monkey.man.net/AccountChooser?service=adsense&continue=https://www.google.com/adsense/signup/create?sac%3Dtrue&hl=en-US&faa=1",
+        "visitCount": 2
+      },
+      {
+        "id": "105289",
+        "lastVisitTime": 1644168188735.872,
+        "title": "Chrome Web Store",
+        "typedCount": 0,
+        "url": "https://monkey.man.net/signin/v2/challenge/pwd?service=chromewebstore&hl=en&authuser=0&continue=https%3A%2F%2Ftest-123.com%2Fwebstore%2Fdevconsole%2F&passive=180&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward&TL=AM3QAYbP2Pf3DQJzo-1GMEmz80iLnEUSeEsy4bUNpYyThEMZUA5jNavH5_hDtHOx",
+        "visitCount": 1
+      }
+    ],
+    "count": 3
+  },
+  {
+    "domain": "soul.devourer.info",
+    "items": [
+      {
+        "id": "105310",
+        "lastVisitTime": 1644169047365.7031,
+        "title": "Screen_Shot_2022-02-06_at_12.36.39_PM_640x400.png (640×400)",
+        "typedCount": 0,
+        "url": "http://soul.devourer.info/_uploads/photos/71834f82/Screen_Shot_2022-02-06_at_12.36.39_PM_640x400.png",
+        "visitCount": 1
+      },
+      {
+        "id": "105309",
+        "lastVisitTime": 1644169043793.215,
+        "title": "Simple Image Resizer, resize online images without losing quality",
+        "typedCount": 0,
+        "url": "http://soul.devourer.info/upload",
+        "visitCount": 1
+      },
+      {
+        "id": "105306",
+        "lastVisitTime": 1644169011318.8738,
+        "title": "Simple Image Resizer, resize online images without losing quality",
+        "typedCount": 0,
+        "url": "http://soul.devourer.info/",
+        "visitCount": 1
+      }
+    ],
+    "count": 3
+  },
+  {
+    "domain": "docs.xzy.com",
+    "items": [
+      {
+        "id": "105356",
+        "lastVisitTime": 1644181310544.544,
+        "title": "21.3.24 Skeleton Lake - Google Docs",
+        "typedCount": 0,
+        "url": "https://docs.xzy.com/document/d/12lpHfqG1MvHTudJt4TvS_dBUFzaTkwa-fjJuRZPajDQ/edit",
+        "visitCount": 1
+      },
+      {
+        "id": "105355",
+        "lastVisitTime": 1644181310507.865,
+        "title": "21.3.24 Skeleton Lake - Google Docs",
+        "typedCount": 0,
+        "url": "https://docs.xzy.com/document/d/12lpHfqG1MvHTudJt4TvS_dBUFzaTkwa-fjJuRZPajDQ/edit?usp=drive_web&ouid=109533019592818243039",
+        "visitCount": 2
+      }
+    ],
+    "count": 2
+  },
+  {
+    "domain": "donkey.com",
+    "items": [
+      {
+        "id": "105342",
+        "lastVisitTime": 1644180605141.857,
+        "title": "Google Keep",
+        "typedCount": 0,
+        "url": "https://donkey.com/u/0/#LIST/1nuy3hrqx4-glOZxlDWNuHFUoEP8SIJxr447bGNGUtQLgiwy3qoGCDEAFcXLh4GNWwgSs",
+        "visitCount": 1
+      },
+      {
+        "id": "63069",
+        "lastVisitTime": 1644171538349.959,
+        "title": "Google Keep",
+        "typedCount": 0,
+        "url": "https://donkey.com/u/0/",
+        "visitCount": 2
+      }
+    ],
+    "count": 2
+  }
+]
