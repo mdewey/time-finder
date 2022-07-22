@@ -23,8 +23,6 @@ function App() {
 
   const context = { state, dispatch } as AppContextInterface
 
-
-const [history, setHistory_DEPRECATED] = useState([] as Array<IHistoryItem>);
   const setHistory = useCallback((historyItems: Array<IHistoryItem>) => {
     dispatch({ type: 'ADDED_HISTORY', value: historyItems });
   }, [])
